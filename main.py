@@ -1,1 +1,1 @@
-print(f"Hello {input("What's your name?")}")
+print(f"informatyka rządzi oł yeahhhhh!!!!! {input("What's your name?")}")

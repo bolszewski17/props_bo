@@ -3,7 +3,7 @@
 
 ## TODO jp:
 
-- [ ] write down who rules
+- [x] write down who rules
 
 ## TODO bo:
 - [x] prepare hello world script
